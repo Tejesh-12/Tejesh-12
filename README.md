@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **I am a Computer Science student from IIIT Guwahati.**
 - 👋 I’m Karavadi Tejesh
-- 👀 I’m interested in open source projects.
 - 💞️ I’m Interested in Working on projects based on web development.
 - 📫 How to reach me: 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/tejesh-karavadi-070223191/) .
 
 
-- 😄 Pronouns: “Success is getting what you want, happiness is wanting what you get”.
-- ⚡ Fun fact:  LIVING THE MOMENT😎.
+- 😄 Pronouns: “In Order To Succeed,We Must First Believe That We Can”.
+- ⚡ Fun fact:  Living Each Second Of Life😎.
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
